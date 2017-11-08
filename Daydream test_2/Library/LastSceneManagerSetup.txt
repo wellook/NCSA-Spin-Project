@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SPIN6.26.unity
+  isLoaded: 1
+  isActive: 1
